@@ -1,4 +1,2 @@
-server:
-  port = 8000
-  host = localhost
-  debug = true
+port = 8000
+host = localhost
